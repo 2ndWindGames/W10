@@ -1,0 +1,1 @@
+First release with opening-date records, optional photos and notes, one-time date reminders, an archive, and larger text. Korean-language interface.

@@ -1,0 +1,20 @@
+Keep a note of when you first opened it.
+
+Opened Note records opening dates for everyday products such as milk, sauces and cosmetics. This release has a Korean-language interface.
+
+• Record each product separately, including products with the same name.
+• See elapsed calendar days since opening.
+• Optionally choose one reminder date and time. Android battery settings may delay delivery.
+• Add one photo, a short note and a category.
+• Sort by overdue reminders, upcoming reminders or recent opening dates.
+• Mark a product as finished to archive its record and cancel its reminder.
+• Restore an archived record without replaying past reminders.
+• Use larger text and delete all local records and photos in Settings.
+
+The free version supports up to 15 active products. Archived records remain available to view, edit and delete. There are no ads, purchases, accounts or automatic cloud backups.
+
+Records and selected photos stay in the app's internal storage. The app does not send them to a server. Uninstalling the app or changing devices does not preserve your records.
+
+Reminder dates are dates you choose for checking a product. Opened Note does not calculate expiry dates or assess whether a product is safe to eat or use. Follow product labeling and storage instructions.
+
+Requires Android 8.0 or later.

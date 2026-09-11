@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="500"><rect width="1024" height="500" fill="#fcf7ee"/><circle cx="900" cy="210" r="278" fill="#f6ead5"/><circle cx="876" cy="235" r="182" fill="#f9eedf"/>
+<text x="72" y="94" fill="#b27b55" font-family="Malgun Gothic, Noto Sans KR, sans-serif" font-size="16" font-weight="700" letter-spacing="4">OPENED NOTE</text>
+<text x="66" y="215" fill="#292b29" font-family="Malgun Gothic, Noto Sans KR, sans-serif" font-size="80" font-weight="700">개봉노트</text>
+<text x="72" y="290" fill="#6f6a61" font-family="Malgun Gothic, Noto Sans KR, sans-serif" font-size="29">처음 연 날부터, 다 쓴 날까지.</text>
+<text x="72" y="398" fill="#b5562f" font-family="Malgun Gothic, Noto Sans KR, sans-serif" font-size="21">개봉일 기록 · 내가 정한 알림 · 보관함</text>
+<rect x="678" y="114" width="267" height="267" rx="63" fill="#ed672e"/><g transform="translate(678 114) scale(.5215)"><g fill="none" stroke="#fffdf7" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"><path d="M172 131h168v46H172z"/><path d="M182 179l-24 36v148a25 25 0 0 0 25 25h146a25 25 0 0 0 25-25V215l-24-36"/><path d="m205 278 37 36 68-72" stroke-width="23"/><path d="m373 98 12-26m10 56 28-4" stroke="#ffe0b7" stroke-width="15"/></g></g></svg>
